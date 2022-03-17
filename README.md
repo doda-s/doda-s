@@ -3,7 +3,7 @@
 
 ## Eu sou apenas um amante da tecnologia
 - 👨‍🎓 Profissão: Pretendo me tornar um Engenheiro de Software ou um Analista de Sistemas.
-- 📝 Estudando: Atualmente estou cursando Aprendizagem Industrial de Suporte e Manutenção de Redes Locais.
+- 📝 Estudando/Conhecimentos: Atualmente estou cursando Desenvolvimento de Sistemas. Sou aprendiz em Manutenção de Microcomputadores e Redes Locais.
 - 💁‍♂️ Interesses: Gosto muito da área de TI. Então, eu passo muito tempo estudando sobre computadores, softwares, desenvolvimento, e tecnologias no geral.
 
 <h2 align="center">Meus Status</h2>
