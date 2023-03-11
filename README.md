@@ -9,5 +9,5 @@
 <h2 align="center">Meus Status</h2>
 
 <div align="center">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedRo-HenRique-14&show_icons=true&theme=radical)
+
 </div>
