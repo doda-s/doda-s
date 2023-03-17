@@ -15,6 +15,6 @@
 
 <h2 align="left">Meus Status</h2>
 <div align="center"><br/>
-<img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=PedRo-HenRique-14&show_icons=true&theme=dark"/>
-<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedRo-HenRique-14&hide_progress=false&layout=compact&theme=dark" width=420px hegth=200/>
+<img align="center" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=PedRo-HenRique-14&show_icons=true&theme=dark"/>
+<img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedRo-HenRique-14&hide_progress=false&layout=compact&theme=dark"/>
 </div>
