@@ -1,4 +1,10 @@
 ## Oi! eu sou o Dodas 👋
+<div>
+<a href="gamejolt.com/invite/DodoPredo"><img alt="Game Jolt" src="https://img.shields.io/badge/Game%20Jolt-CCFF00?style=for-the-badge&logo=Game%20Jolt&logoColor=white"/></a>
+<a href="https://dodopredo.itch.io/"><img atl="Itch.io" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"/></a>
+</div>
+
+### Sobre mim:
 - 👨‍🎓 Profissão: Pretendo me tornar um Engenheiro de Software.
 - 📝 Estudando/Conhecimentos: Sou aprendiz em Manutenção de Microcomputadores e Redes Locais.
 - 💁‍♂️ Interesses: Gosto muito da área de TI. Então, eu passo muito tempo estudando sobre computadores, softwares, desenvolvimento, e tecnologias no geral.
