@@ -1,7 +1,7 @@
 ## Oi! eu sou o Dodas 👋
 ### Sobre mim:
 - 👨‍🎓 Profissão: Pretendo me tornar um Engenheiro de Software.
-- 📝 Estudando/Conhecimentos: Atualmente estou focando meus estudos na linguagem Java. Porém, também tenho conhecimento básico com desenvolvimento de jogos com C# e Unity, e já desenvolvi algumas aplicações com Python 3.
+- 📝 Cursando: Engenharia de Software em Católica SC.
 - 💁‍♂️ Interesses: Gosto muito da área de TI. Então, eu passo muito tempo estudando sobre computadores, softwares, desenvolvimento, e tecnologias no geral.
 
 <h3>Linguagens e ferramentas</h3>
