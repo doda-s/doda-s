@@ -1,31 +1,22 @@
 ## Oi! eu sou o Dodas 👋
-### Sobre mim:
-- 👨‍🎓 Profissão: Pretendo me tornar um Engenheiro de Software.
-- 📝 Cursando: Engenharia de Software em Católica SC.
-- 💁‍♂️ Interesses: Gosto muito da área de TI. Então, eu passo muito tempo estudando sobre computadores, softwares, desenvolvimento, e tecnologias no geral.
+<img src="https://media1.tenor.com/m/m08ZsYu5P8kAAAAd/pedro-raccoon-raccoon.gif" align="right" width="220"/>
+<h3>Sobre mim:</h2>
+<p>- 👨‍🎓 Profissão: Pretendo me tornar um Engenheiro de Software.</p>
+<p>- 📝 Cursando: Engenharia de Software em Católica SC.</p>
+<p>- 💁‍♂️ Interesses: Gosto muito da área de TI. Então, eu passo muito tempo estudando sobre computadores, softwares, desenvolvimento, e tecnologias no geral.</p>
 
 ## Linguagens e Ferramentas
 
-<div>
-  <span>
-    <h3>Linguagens</h3>
-    <img alt="Java Badge" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-    <img alt="JS Badge" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
-    <img alt="C Badge" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-    <img alt="C++ Badge" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  </span>
-  <span>
-    <h3>Tecnologias</h3>
-    <img alt="HTML5 Badge" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img alt="CSS3 Badge" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img alt="Vue Badge" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
-    <img alt="Spring Badge" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  </span>
-  <span>
-    <h3>Ferramentas</h3>
-    <img alt="IntelliJ Badge" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-    <img alt="Visual Studio Code Badge" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-  </span>
+<div >
+  <img alt="Java SVG" src="https://www.svgrepo.com/show/452234/java.svg" width="40"/>
+  <img alt="JS SVG" src="https://www.svgrepo.com/show/349419/javascript.svg" width="35"/>
+  <img alt="C++ SVG" src="https://www.svgrepo.com/show/452183/cpp.svg" width="40"/>
+  <img alt="HTML5 SVG" src="https://www.svgrepo.com/show/452228/html-5.svg" width="40"/>
+  <img alt="CSS3 SVG" src="https://www.svgrepo.com/show/452185/css-3.svg" width="40"/>
+  <img alt="Vue SVG" src="https://www.svgrepo.com/show/493625/vue-vuejs-javascript-js-framework.svg" width="40"/>
+  <img alt="Spring SVG" src="https://www.svgrepo.com/show/354380/spring-icon.svg" width="35"/>
+  <img alt="IntelliJ SVG" src="https://www.svgrepo.com/show/353906/intellij-idea.svg" width="40"/>
+  <img alt="Visual Studio Code SVG" src="https://www.svgrepo.com/show/452129/vs-code.svg" width="40"/>
 </div>
 <h2 align="left">Meus Status</h2>
 <div align="center"><br/>
