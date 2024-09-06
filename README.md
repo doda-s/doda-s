@@ -7,7 +7,7 @@
 
 ## Linguagens e Ferramentas
 
-<div >
+<div align="center">
   <img alt="Java SVG" src="https://www.svgrepo.com/show/452234/java.svg" width="40"/>
   <img alt="JS SVG" src="https://www.svgrepo.com/show/349419/javascript.svg" width="35"/>
   <img alt="C++ SVG" src="https://www.svgrepo.com/show/452183/cpp.svg" width="40"/>
