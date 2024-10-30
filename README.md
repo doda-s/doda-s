@@ -20,10 +20,10 @@
 </div>
 <h2 align="left">Meus Status</h2>
 <div align="center"><br/>
-<img style="height: 150px;" align="center" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=PedRo-HenRique-14&show_icons=true&theme=dark"/>
-<img style="height: 150px" align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedRo-HenRique-14&hide_progress=false&layout=compact&theme=dark"/>
+<img style="height: 150px;" align="center" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=doda-s&show_icons=true&theme=dark"/>
+<img style="height: 150px" align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doda-s&hide_progress=false&layout=compact&theme=dark"/>
 </div> <br/>
 
 <div>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph?username=PedRo-HenRique-14&theme=github-compact"></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph?username=doda-s&theme=github-compact"></a>
 </div>
