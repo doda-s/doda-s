@@ -1,9 +1,11 @@
 ## Oi! eu sou o Dodas 👋
 <img src="https://media1.tenor.com/m/m08ZsYu5P8kAAAAd/pedro-raccoon-raccoon.gif" align="right" width="220"/>
 <h3>Sobre mim:</h2>
-<p>- 👨‍🎓 Profissão: Pretendo me tornar um Engenheiro de Software.</p>
-<p>- 📝 Cursando: Engenharia de Software em Católica SC.</p>
-<p>- 💁‍♂️ Interesses: Gosto muito da área de TI. Então, eu passo muito tempo estudando sobre computadores, softwares, desenvolvimento, e tecnologias no geral.</p>
+<ul>
+  <li><p>👨‍🎓 Profissão: Pretendo me tornar um Engenheiro de Software.</p></li>
+  <li><p>📝 Cursando: Engenharia de Software em Católica SC.</p></li>
+  <li><p>💁‍♂️ Interesses: Gosto muito da área de TI. Então, eu passo muito tempo estudando sobre computadores, softwares, desenvolvimento, e tecnologias no geral.</p></li>
+</ul>
 
 ## Linguagens e Ferramentas
 
