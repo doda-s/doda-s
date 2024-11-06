@@ -1,5 +1,6 @@
 ## Oi! eu sou o Dodas 👋
 <img src="https://media1.tenor.com/m/m08ZsYu5P8kAAAAd/pedro-raccoon-raccoon.gif" align="right" width="220"/>
+"Any sufficiently advanced technology is indistinguishable from magic." - Arthur C. Clarke.
 <h3>Sobre mim:</h2>
 <ul>
   <li><p>👨‍🎓 Profissão: Pretendo me tornar um Engenheiro de Software.</p></li>
