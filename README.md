@@ -8,8 +8,6 @@
   <li><p>💁‍♂️ Interesses: Gosto muito da área de TI. Então, eu passo muito tempo estudando sobre computadores, softwares, desenvolvimento, e tecnologias no geral.</p></li>
 </ul>
 
-## Linguagens e Ferramentas
-
 <div align="center">
   <img alt="Java SVG" src="https://www.svgrepo.com/show/452234/java.svg" width="40"/>
   <img alt="JS SVG" src="https://www.svgrepo.com/show/349419/javascript.svg" width="35"/>
