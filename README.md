@@ -1,5 +1,5 @@
 ## Hello! I'm Dodas 🕶
-<img src="https://media1.tenor.com/m/m08ZsYu5P8kAAAAd/pedro-raccoon-raccoon.gif" align="right" width="220"/>
+<img src="https://media1.tenor.com/m/9TXY0w_frwkAAAAC/crow-with-knife-caw.gif" align="right" width="220"/>
 "Any sufficiently advanced technology is indistinguishable from magic." - Arthur C. Clarke.
 
 <h3>About me:</h3>
