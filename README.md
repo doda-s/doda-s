@@ -16,17 +16,25 @@
 <h4>🌱 Goals</h4>
 <ul><li>Currently focused on back-end development. I am constantly learning and looking for opportunities to grow in the tech field.</li></ul>
 
+<h3 align="center">Development Technologies</h3>
 <div align="center">
   <img alt="Java SVG" src="https://www.svgrepo.com/show/452234/java.svg" width="40"/>
-  <img alt="JS SVG" src="https://www.svgrepo.com/show/349419/javascript.svg" width="35"/>
+  <img alt="Python SVG" src="https://www.svgrepo.com/show/452091/python.svg" width="40"/>
   <img alt="C++ SVG" src="https://www.svgrepo.com/show/452183/cpp.svg" width="40"/>
-  <img alt="HTML5 SVG" src="https://www.svgrepo.com/show/452228/html-5.svg" width="40"/>
-  <img alt="CSS3 SVG" src="https://www.svgrepo.com/show/452185/css-3.svg" width="40"/>
-  <img alt="Vue SVG" src="https://www.svgrepo.com/show/493625/vue-vuejs-javascript-js-framework.svg" width="40"/>
-  <img alt="Spring SVG" src="https://www.svgrepo.com/show/354380/spring-icon.svg" width="35"/>
-  <img alt="IntelliJ SVG" src="https://www.svgrepo.com/show/353906/intellij-idea.svg" width="40"/>
-  <img alt="Visual Studio Code SVG" src="https://www.svgrepo.com/show/452129/vs-code.svg" width="40"/>
+  <img alt="Spring SVG" src="https://www.svgrepo.com/show/354380/spring-icon.svg" width="40"/>
+  <img alt="FastAPI SVG" src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" width="40"/>
+  <img alt="MongoDB SVG" src="https://icon.icepanel.io/Technology/svg/MongoDB.svg" width="40"/>
 </div>
+
+<h3 align="center">Development Tools</h3>
+<div align="center">
+  <img alt="Visual Studio Code SVG" src="https://icon.icepanel.io/Technology/svg/Visual-Studio-Code-%28VS-Code%29.svg" width="40"/>
+  <img alt="IntelliJ IDEA SVG" src="https://icon.icepanel.io/Technology/svg/IntelliJ-IDEA.svg" width="40"/>
+  <img alt="Godot Engine SVG" src="https://icon.icepanel.io/Technology/svg/Godot-Engine.svg" width="40"/>
+  <img alt="Postman SVG" src="https://icon.icepanel.io/Technology/svg/Postman.svg" width="40"/>
+  <img alt="Git SVG" src="https://icon.icepanel.io/Technology/svg/Git.svg" width="40"/>
+</div>
+
 <h2 align="left">My Stats</h2>
 <div align="center"><br/>
 <img style="height: 150px;" align="center" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=doda-s&show_icons=true&theme=dark"/>
