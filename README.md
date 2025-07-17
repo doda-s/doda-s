@@ -32,7 +32,11 @@
   <img alt="IntelliJ IDEA SVG" src="https://icon.icepanel.io/Technology/svg/IntelliJ-IDEA.svg" width="40"/>
   <img alt="Godot Engine SVG" src="https://icon.icepanel.io/Technology/svg/Godot-Engine.svg" width="40"/>
   <img alt="Postman SVG" src="https://icon.icepanel.io/Technology/svg/Postman.svg" width="40"/>
+</div>
+<div align="center">
   <img alt="Git SVG" src="https://icon.icepanel.io/Technology/svg/Git.svg" width="40"/>
+  <img alt="Kubernetes SVG" src="https://icon.icepanel.io/Technology/svg/Kubernetes.svg" width="40"/>
+  <img alt="Docker SVG" src="https://icon.icepanel.io/Technology/svg/Docker.svg" width="40"/>
 </div>
 
 <h2 align="left">My Stats</h2>
