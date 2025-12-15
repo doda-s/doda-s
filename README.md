@@ -6,6 +6,7 @@
   <img alt="Java SVG" src="https://www.svgrepo.com/show/452234/java.svg" width="40"/>
   <img alt="Python SVG" src="https://www.svgrepo.com/show/452091/python.svg" width="40"/>
   <img alt="C++ SVG" src="https://www.svgrepo.com/show/452183/cpp.svg" width="40"/>
+  <img alt="Go SVG" src="https://www.svgrepo.com/show/373632/go.svg" width="40"/>
   <img alt="Spring SVG" src="https://www.svgrepo.com/show/354380/spring-icon.svg" width="40"/>
   <img alt="FastAPI SVG" src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" width="40"/>
   <img alt="MongoDB SVG" src="https://icon.icepanel.io/Technology/svg/MongoDB.svg" width="40"/>
@@ -24,7 +25,7 @@ Backend-obsessed software engineering student (I touch front-end only when absol
 
 - 🎓 Currently studying at **Centro Universitário - Católica de Santa Catarina**.
 - 👨‍💻 Focused on **back-end development**, RESTful APIs, and automation.
-- 🛠️ Favorite languages: **Java**, **Python**, and **C++**.
+- 🛠️ Favorite languages: **Java**, **Python**, **C++** and **Go**.
 - ☁️ Exploring **DevOps**, **Docker**, and cloud infrastructure.
 - 🎮 Gamer and indie game dev — building small projects with **Godot Engine**.
 - 🧑‍🚀 Life philosophy: **“If it can be automated, why do it manually?”**
