@@ -28,15 +28,12 @@ Backend-obsessed software engineering student (I touch front-end only when absol
 - 🛠️ Favorite languages: **Java**, **Python**, **C++** and **Go**.
 - ☁️ Exploring **DevOps**, **Docker**, and cloud infrastructure.
 - 🎮 Gamer and indie game dev — building small projects with **Godot Engine**.
-- 🧑‍🚀 Life philosophy: **“If it can be automated, why do it manually?”**
 
 ### Featured Projects
 
-- [TasmanJs](https://github.com/doda-s/task-manager-js) — Fullstack project for task management using Nest.js and React.
 - [Godot Experimentals 3D](https://github.com/doda-s/godot-experimentals-3d) — Sandbox project to experiment and prototype mechanics using **Godot Engine 3D**.
 - [Godot Experimentals 2D](https://github.com/doda-s/godot-experimentals-2d) — Sandbox project to experiment and prototype mechanics using **Godot Engine 2D**.
 - [JPG2 Project](https://github.com/doda-s/jpg2-project) — A game development project. Its goal is to make learning for law students less overwhelming and more interactive.
-- [JPG2 Project API](https://github.com/doda-s/api-server-side) — API for collecting game data under development by the JPG2 team.
 
 <hr width="45px">
 
