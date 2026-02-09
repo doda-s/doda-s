@@ -33,7 +33,7 @@ Backend-obsessed software engineering student (I touch front-end only when absol
 
 - [Godot Experimentals 3D](https://github.com/doda-s/godot-experimentals-3d) — Sandbox project to experiment and prototype mechanics using **Godot Engine 3D**.
 - [Godot Experimentals 2D](https://github.com/doda-s/godot-experimentals-2d) — Sandbox project to experiment and prototype mechanics using **Godot Engine 2D**.
-- [JPG2 Project](https://github.com/doda-s/jpg2-project) — A game development project. Its goal is to make learning for law students less overwhelming and more interactive.
+- [JPG2 Project](https://github.com/doda-s/jpg2-project) — A game development project for a college assignment. Its goal is to make learning for law students less overwhelming and more interactive.
 
 <hr width="45px">
 
