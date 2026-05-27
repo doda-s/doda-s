@@ -1,10 +1,12 @@
 # Hello! I'm Dodas 🕶
 
-<img src="https://media1.tenor.com/m/9TXY0w_frwkAAAAC/crow-with-knife-caw.gif" align="right" width="180"/>
 
 > *"Any sufficiently advanced technology is indistinguishable from magic."* - Arthur C. Clarke.
 
+
 ### About Me
+
+<img src="https://media.tenor.com/aPpQL6lYIMIAAAAi/bird.gif" align="right" width="180"/>
 
 <div align="center">
   <img alt="Java SVG" src="https://www.svgrepo.com/show/452234/java.svg" width="40"/>
