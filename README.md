@@ -11,9 +11,8 @@
 <div align="center">
   <img alt="Java SVG" src="https://www.svgrepo.com/show/452234/java.svg" width="40"/>
   <img alt="Python SVG" src="https://www.svgrepo.com/show/452091/python.svg" width="40"/>
-  <img alt="C++ SVG" src="https://www.svgrepo.com/show/452183/cpp.svg" width="40"/>
   <img alt="Go SVG" src="https://www.svgrepo.com/show/373632/go.svg" width="40"/>
-  <img alt="Spring SVG" src="https://www.svgrepo.com/show/354380/spring-icon.svg" width="40"/>
+  <img alt="Quarkus SVG" src="https://www.svgrepo.com/show/354245/quarkus-icon.svg" width="40"/>
   <img alt="FastAPI SVG" src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" width="40"/>
   <img alt="MongoDB SVG" src="https://icon.icepanel.io/Technology/svg/MongoDB.svg" width="40"/>
   <img alt="Kubernetes SVG" src="https://icon.icepanel.io/Technology/svg/Kubernetes.svg" width="40"/>
